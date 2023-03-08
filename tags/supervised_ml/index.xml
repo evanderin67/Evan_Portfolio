@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>supervised_ml on Evan Derin Ihsanudin</title>
+    <link>https://evanderin67.github.io/Evan_Portfolio/tags/supervised_ml/</link>
+    <description>Recent content in supervised_ml on Evan Derin Ihsanudin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Feb 2023 10:25:05 -0400</lastBuildDate><atom:link href="https://evanderin67.github.io/Evan_Portfolio/tags/supervised_ml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Supervised Machine Learning – ARIA’s Plant Nutrition Prediction</title>
+      <link>https://evanderin67.github.io/Evan_Portfolio/post/project-6/</link>
+      <pubDate>Mon, 20 Feb 2023 10:25:05 -0400</pubDate>
+      
+      <guid>https://evanderin67.github.io/Evan_Portfolio/post/project-6/</guid>
+      <description>Github | Deployment
+Brief Summary of Project The flow of this project, first EDA (Exploratory Data Analysis) to find out the basic picture of the dataset. Second, cleaning and preprocessing of the dataset. From preprocessing I drop the feature sample_type because it does not affect the regression. Third, built and compare evaluation of 8 Model (Linear Regression, KNN, Bayesian Ridge, Support Vector Machine, Decision Tree, Random Forest, XGBoost &amp;amp; ADABoost) and choose Random Forest as Best Model, then improve this model using GridsearchCV.</description>
+    </item>
+    
+  </channel>
+</rss>

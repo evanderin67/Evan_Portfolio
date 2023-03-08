@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>neural_network on Evan Derin Ihsanudin</title>
+    <link>https://evanderin67.github.io/Evan_Portfolio/tags/neural_network/</link>
+    <description>Recent content in neural_network on Evan Derin Ihsanudin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Feb 2023 11:13:32 -0400</lastBuildDate><atom:link href="https://evanderin67.github.io/Evan_Portfolio/tags/neural_network/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neural Network – Customer Churn Classification</title>
+      <link>https://evanderin67.github.io/Evan_Portfolio/post/project-3/</link>
+      <pubDate>Fri, 03 Feb 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://evanderin67.github.io/Evan_Portfolio/post/project-3/</guid>
+      <description>Github | Deployment
+Brief Summary of Project The flow of this project, first EDA (Exploratory Data Analysis) to find out the basic picture of the dataset. Second, cleaning and preprocessing of the dataset. Third, built 4 Neural Network Model (Sequential Neural Network, Improvement Sequential Neural Network, Functional Neural Network, Improvement Functional Neural Network) and choose Improvement Functional Neural Network as Best Model. Result of the model using Neural Network with own architecture shows 90% Accuracy and F1-Score 91% on test-set</description>
+    </item>
+    
+  </channel>
+</rss>

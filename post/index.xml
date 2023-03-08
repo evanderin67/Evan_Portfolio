@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Evan Derin Ihsanudin</title>
+    <link>https://evanderin67.github.io/Evan_Portfolio/post/</link>
+    <description>Recent content in Projects on Evan Derin Ihsanudin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://evanderin67.github.io/Evan_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Supervised Machine Learning – ARIA’s Plant Nutrition Prediction</title>
+      <link>https://evanderin67.github.io/Evan_Portfolio/post/project-6/</link>
+      <pubDate>Mon, 20 Feb 2023 10:25:05 -0400</pubDate>
+      
+      <guid>https://evanderin67.github.io/Evan_Portfolio/post/project-6/</guid>
+      <description>Github | Deployment
+Brief Summary of Project The flow of this project, first EDA (Exploratory Data Analysis) to find out the basic picture of the dataset. Second, cleaning and preprocessing of the dataset. From preprocessing I drop the feature sample_type because it does not affect the regression. Third, built and compare evaluation of 8 Model (Linear Regression, KNN, Bayesian Ridge, Support Vector Machine, Decision Tree, Random Forest, XGBoost &amp;amp; ADABoost) and choose Random Forest as Best Model, then improve this model using GridsearchCV.</description>
+    </item>
+    
+    <item>
+      <title>Time Series Analysis – KALBE’s Product Sales Forecasting</title>
+      <link>https://evanderin67.github.io/Evan_Portfolio/post/project-5/</link>
+      <pubDate>Mon, 20 Feb 2023 10:25:05 -0400</pubDate>
+      
+      <guid>https://evanderin67.github.io/Evan_Portfolio/post/project-5/</guid>
+      <description>Github | Deployment
+Brief Summary of Project The flow of this project, First EDA (Exploratory Data Analysis) to find out the basic picture of the dataset. Second, cleaning and preprocessing of the dataset. Third, I did modeling with the following details:
+Kategori A : ARIMA (MAE 3.69) Kategori B : ARIMA (MAE 194.48) Produk A1 : ARIMA (MAE 7.4) Produk A2 : ARIMA (MAE 1.73) Produk B1 : Holt Winter (MAE 120.</description>
+    </item>
+    
+    <item>
+      <title>Natural Language Processing – Cyberbullying Tweet Prediction</title>
+      <link>https://evanderin67.github.io/Evan_Portfolio/post/project-4/</link>
+      <pubDate>Fri, 10 Feb 2023 11:14:48 -0400</pubDate>
+      
+      <guid>https://evanderin67.github.io/Evan_Portfolio/post/project-4/</guid>
+      <description>Github | Deployment
+Brief Summary of Project The flow of this project, first EDA (Exploratory Data Analysis) to find out the basic picture of the dataset. Second, cleaning and preprocessing of the dataset. Third, Built 4 Model (LSTM, LSTM Improvement, GRU, GRU Transfer Learning) and choose LSTM Improvement as Best Model. Result of the model using Deep Learning with own architecture shows 77% Accuracy on test-set
+Project Conclusion Strength
+Has an accuracy of 77% (above 70%) which means that this model can classify tweets well.</description>
+    </item>
+    
+    <item>
+      <title>Neural Network – Customer Churn Classification</title>
+      <link>https://evanderin67.github.io/Evan_Portfolio/post/project-3/</link>
+      <pubDate>Fri, 03 Feb 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://evanderin67.github.io/Evan_Portfolio/post/project-3/</guid>
+      <description>Github | Deployment
+Brief Summary of Project The flow of this project, first EDA (Exploratory Data Analysis) to find out the basic picture of the dataset. Second, cleaning and preprocessing of the dataset. Third, built 4 Neural Network Model (Sequential Neural Network, Improvement Sequential Neural Network, Functional Neural Network, Improvement Functional Neural Network) and choose Improvement Functional Neural Network as Best Model. Result of the model using Neural Network with own architecture shows 90% Accuracy and F1-Score 91% on test-set</description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Machine Learning – Customer Credit Card Clustering</title>
+      <link>https://evanderin67.github.io/Evan_Portfolio/post/project-2/</link>
+      <pubDate>Thu, 19 Jan 2023 11:00:59 -0400</pubDate>
+      
+      <guid>https://evanderin67.github.io/Evan_Portfolio/post/project-2/</guid>
+      <description>Github
+Brief Summary of Project The flow of this project, first EDA (Exploratory Data Analysis) to find out the basic picture of the dataset. Then cleaning and preprocessing of the dataset. Second, I performed PCA to reduce the dimensionality of the data and reduce the possibility of overfit. Third, I performed clustering using K-Means Nearest Neighbor. Result of clustering, there are 5 customer clusters with specific characteristics
+Project Conclusion Cluster 0 (Frugal customer type)</description>
+    </item>
+    
+    <item>
+      <title>Interactive Dashboard and Visualization Global Layoff Data</title>
+      <link>https://evanderin67.github.io/Evan_Portfolio/post/project-1/</link>
+      <pubDate>Thu, 22 Dec 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://evanderin67.github.io/Evan_Portfolio/post/project-1/</guid>
+      <description>Github | Tableau
+Tableau Explanation The tableau dashboard consists of 4 pages
+Country Wise Dashboard Sector Wise Dashboard Dashboard Company Wise Statistics Desc &amp;amp; Inf (Contains descriptive and inferential statistical analysis) The 4 dashboards can be controlled using the navigation button located in the red box as shown below
+Project Conclusion From the project, it can be concluded that
+In 2022 we often hear news about layoffs, there is always news about layoffs reported by the media in various companies in the world.</description>
+    </item>
+    
+  </channel>
+</rss>

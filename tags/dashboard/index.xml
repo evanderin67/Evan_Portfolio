@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dashboard on Evan Derin Ihsanudin</title>
+    <link>https://evanderin67.github.io/Evan_Portfolio/tags/dashboard/</link>
+    <description>Recent content in dashboard on Evan Derin Ihsanudin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Dec 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://evanderin67.github.io/Evan_Portfolio/tags/dashboard/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interactive Dashboard and Visualization Global Layoff Data</title>
+      <link>https://evanderin67.github.io/Evan_Portfolio/post/project-1/</link>
+      <pubDate>Thu, 22 Dec 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://evanderin67.github.io/Evan_Portfolio/post/project-1/</guid>
+      <description>Github | Tableau
+Tableau Explanation The tableau dashboard consists of 4 pages
+Country Wise Dashboard Sector Wise Dashboard Dashboard Company Wise Statistics Desc &amp;amp; Inf (Contains descriptive and inferential statistical analysis) The 4 dashboards can be controlled using the navigation button located in the red box as shown below
+Project Conclusion From the project, it can be concluded that
+In 2022 we often hear news about layoffs, there is always news about layoffs reported by the media in various companies in the world.</description>
+    </item>
+    
+  </channel>
+</rss>
